@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David malak
 - 👀 I’m interested in web development | macine learning
-- 🌱 I’m currently learning django | react
+- 🌱 I’m currently learning django | react | react-native
 - 💞️ I’m looking to collaborate on django projects
 - 📫 How to reach me https://twitter.com/DavidMalak11
 
